@@ -31,3 +31,4 @@ A simplified clone of the Instagram app built with Firebase.
 
 ## License
 InstagramClone is available under the MIT License. See [LICENSE](LICENSE) for more infomation.
+# insta_clone
